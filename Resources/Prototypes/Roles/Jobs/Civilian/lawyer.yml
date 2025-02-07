@@ -11,7 +11,7 @@
       time: 144000 # 40 hours
   startingGear: LawyerGear
   icon: "JobIconLawyer"
-  supervisors: job-supervisors-magistrat-iaa
+  supervisors: job-supervisors-iaa
   canBeAntag: false
   access:
   - Service
@@ -28,7 +28,7 @@
   minBankBalance: 150
   maxBankBalance: 250
   wageDepartment: Civilian
-  wage: 50
+  wage: 65
   #end-backmen: currency
 
 - type: startingGear

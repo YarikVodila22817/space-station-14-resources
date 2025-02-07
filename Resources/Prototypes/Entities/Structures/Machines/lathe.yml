@@ -204,6 +204,8 @@
       - WetFloorSign
       - ClothingHeadHatCone
       - FreezerElectronics
+      - CassetteTape # DS14
+      - TapeRecorder # DS14
   - type: EmagLatheRecipes
     emagStaticRecipes:
       - BoxLethalshot
@@ -294,7 +296,7 @@
       - MiningDrill
       - MiningDrillDiamond
       - AnomalyScanner
-      - ObeliskStoper
+      - ObeliskStoper # DS14
       - AnomalyLocator
       - AnomalyLocatorWide
       - Scalpel
@@ -356,10 +358,10 @@
       # - FauxTileAstroSnow # DS14: moved to CutterMachine recipes
       - OreBagOfHolding
       - DeviceQuantumSpinInverter
-      - ClothingEyesHudDiagnostic
-      - ClothingEyesHudMedical
-      - ClothingEyesHudSecurity
-      - ClothingEyesHudAdvanced
+      - ClothingEyesHudDiagnostic # DS14
+      - ClothingEyesHudMedical # DS14
+      - ClothingEyesHudSecurity # DS14
+      - ClothingEyesHudAdvanced # DS14
   - type: EmagLatheRecipes
     emagDynamicRecipes:
       - BoxBeanbag
@@ -489,7 +491,6 @@
       - SolarControlComputerCircuitboard
       - SolarTrackerElectronics
       - TurboItemRechargerCircuitboard
-      - PowerComputerCircuitboard
       - AutolatheHyperConvectionMachineCircuitboard
       - ProtolatheHyperConvectionMachineCircuitboard
       - CircuitImprinterHyperConvectionMachineCircuitboard
@@ -535,7 +536,9 @@
       - MassMediaCircuitboard
       - ReagentGrinderIndustrialMachineCircuitboard
       - JukeboxCircuitBoard
+      - SMESAdvancedMachineCircuitboard
       - SalvageExpeditionsComputerCircuitboard # Corvax-Cringe
+      - HolopadMachineCircuitboard
   - type: EmagLatheRecipes
     emagDynamicRecipes:
       - ShuttleGunDusterCircuitboard
@@ -614,6 +617,8 @@
     - BorgModuleHarvesting
     - BorgModuleDefibrillator
     - BorgModuleAdvancedTreatment
+    - BorgModuleAdvancedMining # DS14
+    - BorgModuleMiningWeapon # DS14
     - RipleyHarness
     - RipleyLArm
     - RipleyRArm
@@ -809,6 +814,7 @@
       - WeaponLaserCarbine
       - WeaponXrayCannon
       - WeaponLaserRifle # DS14
+      - MagazineBox357Incendiary # ADT
   - type: MaterialStorage
     whitelist:
       tags:
@@ -1252,7 +1258,7 @@
       staticRecipes:
         - SheetSteel
         - SheetGlass1
-        - SheetRGlass
+        - SheetRGlassRaw
         - SheetPlasma1
         - SheetPGlass1
         - SheetRPGlass1
@@ -1278,7 +1284,7 @@
     staticRecipes:
       - SheetSteel
       - SheetGlass1
-      - SheetRGlass
+      - SheetRGlassRaw
       - SheetPlasma1
       - SheetPGlass1
       - SheetRPGlass1

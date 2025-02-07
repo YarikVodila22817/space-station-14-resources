@@ -34,7 +34,7 @@
     - Vulpkanin
     - Felinid
     - Kobolt
-    - XenoSponsor
+    - Xenomorph
     - IPC
     - IPS
 
@@ -56,7 +56,7 @@
     # - Vulpkanin
     - Felinid
     - Kobolt
-    # - XenoSponsor
+    # - Xenomorph
     - IPC
     - IPS
 
@@ -65,21 +65,21 @@
   parent: EventHumanoidMindShielded
   # Nanotrasen are a bit racist, but FSCP more racist
   speciesBlacklist:
-    # - Arachnid
+    - Arachnid
     - Diona
     - Dwarf
     # - Human
-    # - Moth
-    # - Reptilian
+    - Moth
+    - Reptilian
     - SlimePerson
     - Vox
-    # - Demon
-    # - Shark
-    # - Tajaran
-    # - Vulpkanin
+    - Demon
+    - Shark
+    - Tajaran
+    - Vulpkanin
     - Felinid
     - Kobolt
-    - XenoSponsor
+    - Xenomorph
     - IPC
     - IPS
   randomizeName: false
@@ -94,7 +94,7 @@
   components:
     - type: ZombieImmune
 
-## Death Squad (It's actually just MobHuman, unlike the other prototypes in this file, but randomHumanoidSettings will randomize appearance)
+## Death Squad (It's actually just MobHuman, unlike the other prototypes in this file, but randomHumanoidSettings will randomize appearance, and we need bald Urists)
 
 - type: entity
   parent: MarkerBase
@@ -137,7 +137,6 @@
     - NamesLastDeathSquad
   - type: Loadout
     prototypes: [ DeathSquadGear ]
-    roleLoadout: [ RoleSurvivalEVA ]
   - type: TTS
     voice: Garithos
 

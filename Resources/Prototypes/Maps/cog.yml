@@ -63,7 +63,7 @@
             Musician: [ 1, 1 ]
             Boxer: [ 2, 2]
             #silicon
-            # StationAi: [ 1, 1 ]
+            StationAi: [ 1, 1 ]
             Borg: [ 3, 3 ]
             BorgSecurity: [ 1, 1 ]
             # law
@@ -82,3 +82,4 @@
             Brigmedic: [ 1, 1 ]
             ClownSponsor: [ 0, 2 ]
             Coroner: [ 1, 1 ]
+            SecurityPilot: [ 1, 1 ]

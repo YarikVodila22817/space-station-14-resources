@@ -374,12 +374,12 @@ GasMinerlittleSpawning: null
 GasMiniMinerPlasma: null
 ADTEncryptionKeyLawyer: EncryptionKeyLaw
 ADTClothingHeadsetLawyer: ClothingHeadsetLaw
-ADTEncryptionKeySpec: EncryptionKeySOC
-ADTClothingHeadsetSpec: ClothingHeadsetSOC
+ADTEncryptionKeySpec: null
+ADTClothingHeadsetSpec: null
 EncryptionKeyIAA: EncryptionKeyLaw
 ADTEncryptionKeyMerc: EncryptionKeyMerc
 ADTClothingHeadsetMerc: ClothingHeadsetMerc
-ClothingHeadsetCSO: ClothingHeadsetSOC
+ClothingHeadsetCSO: null
 
 # 2024-05-09 - DS14
 PrinterDoc: null
@@ -461,7 +461,7 @@ BookChefGaming: BookHowToCookForFortySpaceman
 IntercomAssesmbly: IntercomAssembly
 
 #2024-07-17 - DS14
-ClothingHeadsetAltCSO: ClothingHeadsetSOC
+ClothingHeadsetAltCSO: null
 ClothingBackpackLeaderDuffelCBURNNECROFilled: null
 ClothingBackpackDuffelCBURNNECROFilled: null
 ClothingBackpackDuffelCBURNSCSTFilled: null
@@ -643,3 +643,101 @@ ActionWeaponArtifact: null
 ArtifactWeaponScanner: null
 ArtifactWeaponStone: null
 WeaponLaserArtifact: null
+
+# 2024-12-01
+DungeonMasterCircuitBoard: GameMasterCircuitBoard
+
+# 2024-12-12
+FloraRockSolid01: FloraRockSolid
+FloraRockSolid02: FloraRockSolid
+FloraRockSolid03: FloraRockSolid
+FloraStalagmite1: FloraStalagmite
+FloraStalagmite2: FloraStalagmite
+FloraStalagmite3: FloraStalagmite
+FloraStalagmite4: FloraStalagmite
+FloraStalagmite5: FloraStalagmite
+FloraStalagmite6: FloraStalagmite
+FloraGreyStalagmite1: FloraGreyStalagmite
+FloraGreyStalagmite2: FloraGreyStalagmite
+FloraGreyStalagmite3: FloraGreyStalagmite
+FloraGreyStalagmite4: FloraGreyStalagmite
+FloraGreyStalagmite5: FloraGreyStalagmite
+FloraGreyStalagmite6: FloraGreyStalagmite
+FloraTree01: FloraTree
+FloraTree02: FloraTree
+FloraTree03: FloraTree
+FloraTree04: FloraTree
+FloraTree05: FloraTree
+FloraTree06: FloraTree
+FloraTreeSnow01: FloraTreeSnow
+FloraTreeSnow02: FloraTreeSnow
+FloraTreeSnow03: FloraTreeSnow
+FloraTreeSnow04: FloraTreeSnow
+FloraTreeSnow05: FloraTreeSnow
+FloraTreeSnow06: FloraTreeSnow
+FloraTreeLarge01: FloraTreeLarge
+FloraTreeLarge02: FloraTreeLarge
+FloraTreeLarge03: FloraTreeLarge
+FloraTreeLarge04: FloraTreeLarge
+FloraTreeLarge05: FloraTreeLarge
+FloraTreeLarge06: FloraTreeLarge
+FloraTreeConifer01: FloraTreeConifer
+FloraTreeConifer02: FloraTreeConifer
+FloraTreeConifer03: FloraTreeConifer
+ShadowTree01: ShadowTree
+ShadowTree02: ShadowTree
+ShadowTree03: ShadowTree
+ShadowTree04: ShadowTree
+ShadowTree05: ShadowTree
+ShadowTree06: ShadowTree
+LightTree01: LightTree
+LightTree02: LightTree
+LightTree03: LightTree
+LightTree04: LightTree
+LightTree05: LightTree
+LightTree06: LightTree
+
+# 2024-12-22 - DS14
+CrateEngineeringIndustrialSMES: null
+ADTSMESIndustrial: SMESAdvanced
+ADTSMESIndustrialEmpty: SMESAdvancedEmpty
+
+# 2025-01-05 - DS14
+Temp_EventScreen: null
+PaperSecOrderEmergencyOrderOne: null
+
+# 2025-01-13 - DS14
+TravelingChefSpawnerUnitology: null
+TravelingDoctorSpawnerUnitology: null
+TravelingDoctorSpawner: null
+
+# 2025-01-19 - DS14
+ADTSummerShadeGlass: null
+ADTWinterSunGlass: null
+ADTHungoverAngelGlass: null
+ADTCitrusBalanceGlass: null
+ADTDobryiDrinkGlass: null
+ADTMilkEclipseGlass: null
+ADTArcticExplosionGlass: null
+ADTSugarKnightGlass: null
+ADTGrapeLadyGlass: null
+ADTSaturdayBaronGlass: null
+ADTArcticLatteGlass: null
+ADTAzureBlueGlass: null
+ADTEclipsedEclispeGlass: null
+ADTSpaceBushGlass: null
+ADTAppleMartiniGlass: null
+ADTBacardiAppleGlass: null
+ADTClothingBackpackDuffelSyndicateFilledXC67Ammo: ClothingBackpackDuffelSyndicateFilledXC67Ammo
+ADTClothingBackpackDuffelSyndicateFilledXC67: ClothingBackpackDuffelSyndicateFilledXC67
+ClothingBackpackDuffelSyndicateFilledBuldogAmmoXL: ClothingBackpackDuffelSyndicateFilledBuldogAmmoXL
+ADTClothingBackpackDuffelSyndicateFilledBuldogAmmo: ClothingBackpackDuffelSyndicateFilledBuldogAmmo
+ADTClothingBackpackDuffelSyndicateFilledC20Ammo: ClothingBackpackDuffelSyndicateFilledC20Ammo
+ADTClothingBackpackDuffelSyndicateFilledAKMS: ClothingBackpackDuffelSyndicateFilledAKMS
+ADTtelescopicBatonBob: ADTtelescopicBaton
+ADTtelescopicBatonKon: ADTtelescopicBaton
+
+# 2025-01-30 - DS14
+ActionToggleNightVision: null
+ClothingHeadsetSOC: null
+EncryptionKeySOC: null
